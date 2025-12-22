@@ -5,7 +5,7 @@ import { AppMode } from './types';
 
 const WISHES = [
   "Chúc bạn Giáng Sinh này bớt \"overthinking\",\nbớt \"deadline\"\nvà có thêm thật nhiều \"money\" để đi du dưa",
-  "Giáng Sinh này chúc bạn\nsớm thoát kiếp làm \"cây thông\",\nđứng nhìn người ta nắm tay.\nCó lên bạn tối!",
+  "Giáng Sinh này chúc bạn\nsớm thoát kiếp làm \"cây thông\",\nđứng nhìn người ta nắm tay.\nCố lên bạn tôi!",
   "Merry Christmas!\nChúc bạn nhận được món quà mình thích,\ngặp được người mình thương\nvà luôn là phiên bản hạnh phúc nhất của chính mình",
   "All I want for Christmas is you…\nand a big bank account",
   "May your heart be light\nand your days be bright.\nGiáng Sinh rạng rỡ nhé!",

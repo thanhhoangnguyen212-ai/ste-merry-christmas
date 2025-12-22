@@ -11,7 +11,7 @@ const WISHES = [
   "May your heart be light\nand your days be bright.\nGiáng Sinh rạng rỡ nhé!",
   "Giáng Sinh:\nmột chút lung linh,\nmột chút ấm áp,\nvà thật nhiều yêu thương",
   "Stay cozy and merry.\nMong bạn có một đêm Giáng Sinh\nthật trọn vẹn bên những người quan trọng nhất",
-  "Giáng Sinh này mặc gì cũng được,\nmiễn là không phải mắc kẹt\nmột mình giữa phố đông",
+  "Giáng Sinh này mặc gì cũng được,\nmiễn là không phải mặc kệ\nmột mình giữa phố đông",
   "Noel ngoài trời có tuyết,\ntheo đúng giả thuyết\nthì anh phải yêu em"
 ];
 
